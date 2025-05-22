@@ -5,7 +5,7 @@ type: page
 layout: page
 ---
 
-<div style="font-size: 14px;">
+<div style="font-size: 16px;">
 
 ### Journal Articles
 

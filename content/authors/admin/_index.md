@@ -33,10 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kangqiao.wang@students.mq.edu.au'
     label: E-mail Me
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-5332-4031
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/philpapers
+    url: https://philpeople.org/profiles/kangqiao-wang
 
 interests:
   - Philosophy of Biology
