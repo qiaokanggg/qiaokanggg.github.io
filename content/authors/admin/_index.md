@@ -47,7 +47,7 @@ education:
   - area: Doctor of Philosophy in Humanities (ongoing)
     institution: School of Humanities, Macquarie University
     date_start: 2025-02-01
-    date_end: present
+    date_end: 
     summary: |
       Thesis: The inclusive fitness theory, social evolution, and eusociality
     #on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
