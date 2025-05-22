@@ -4,7 +4,7 @@ date:
 type: page
 layout: page
 share: false
-show_page_nav: false
+show_nav: false
 ---
 
 <div style="font-size: 16px;">

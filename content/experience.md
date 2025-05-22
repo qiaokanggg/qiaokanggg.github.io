@@ -2,7 +2,7 @@
 title: 'Experience'
 date: 
 type: landing
-show_page_nav: false
+show_nav: false
 
 design:
   spacing: '5rem'
