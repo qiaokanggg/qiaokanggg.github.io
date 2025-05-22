@@ -10,8 +10,8 @@ first_name: Kangqiao
 last_name: Wang
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,32 +47,33 @@ education:
   - area: Doctor of Philosophy in Humanities (ongoing)
     institution: School of Humanities, Macquarie University
     date_start: 2025-02-01
-    date_end: 2028-02-02
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis: The inclusive fitness theory, social evolution, and eusociality
+    #on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
   - area: Master of Science in History of Science and Technology
     institution: Department of the History of Science, Tsinghua University
     date_start: 2022-09-01
     date_end: 2024-10-10
     summary: |
-      Under construction
+      Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy
   - area: Bachelor of Philosophy in Philosophy
     institution: Department of Philosophy and Religious Studies, Peking University
     date_start: 2017-09-01
     date_end: 2022-06-27
     summary: |
-      Under construction
-work:
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: ''
-    summary: |
+      Thesis: How is a Mechanistis Explanation Justified?
+#work:
+  #- position: 
+  #  company_name: 
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 
+  #  date_end: ''
+  #  summary: |
       
 
 # Skills
@@ -80,10 +81,10 @@ work:
 
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
+    #percent: 100
+  - name: English
+    #percent: 75
   
 
 # Awards.
