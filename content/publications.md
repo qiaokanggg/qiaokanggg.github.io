@@ -1,9 +1,11 @@
 ---
 title: "Publications"
-date: 2025-05-22
+date: 
 type: page
 layout: page
 ---
+
+<div style="font-size: 14px;">
 
 ### Journal Articles
 
@@ -12,5 +14,7 @@ layout: page
 ### Other
 
 - **Wang, K.** (forthcoming). The Evolution of Altruism, Newcomb’s Problem, and the Maximizing-Agent Analogy (in Chinese). In B. Chen (Ed), _Thought and the Times: Volume II_. The Commercial Press.
+
+</div>
 
 ---
