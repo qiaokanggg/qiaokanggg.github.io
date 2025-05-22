@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kangqiao Wang.'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  favicon: "favicon.ico"
