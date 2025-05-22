@@ -60,5 +60,5 @@ features:
     enable: false
 
 params:
-  favicon: "favicon.ico"
+  favicon: "favicon.png"
   show_page_nav: false
