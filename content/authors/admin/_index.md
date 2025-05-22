@@ -65,7 +65,7 @@ education:
     date_start: 2017-09-01
     date_end: 2022-06-27
     summary: |
-      Thesis: How is a Mechanistis Explanation Justified?
+      Thesis: How is a Mechanistic Explanation Justified?
 #work:
   #- position: 
   #  company_name: 
