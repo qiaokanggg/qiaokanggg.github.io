@@ -3,6 +3,7 @@ title: "Publications"
 date: 
 type: page
 layout: page
+share: false
 ---
 
 <div style="font-size: 16px;">
