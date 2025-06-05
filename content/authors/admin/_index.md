@@ -61,13 +61,13 @@ education:
     date_start: 2022-09-01
     date_end: 2024-10-10
     summary: |
-      Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy
+      Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy (in Chinese)
   - area: Bachelor of Philosophy in Philosophy
     institution: Department of Philosophy and Religious Studies, Peking University
     date_start: 2017-09-01
     date_end: 2022-06-27
     summary: |
-      Thesis: How is a Mechanistic Explanation Justified?
+      Thesis: How is a Mechanistic Explanation Justified? (in Chinese)
 #work:
   #- position: 
   #  company_name: 
