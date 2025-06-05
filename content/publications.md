@@ -11,10 +11,10 @@ show_nav: false
 
 ### Journal Articles
 
-- **王康桥**. (2025). 对广义适合度理论中汉密尔顿规则解释价值的质疑——驳乔纳森·伯奇. _自然辩证法研究, 47_(7), 49--57。
+- **王康桥**. (2025). 对广义适合度理论中汉密尔顿规则解释价值的质疑——驳乔纳森·伯奇. _自然辩证法研究, 47_(7), 49--57.
 
   <span style="color:gray; font-size:90%">
-  **Wang, K.** (2025). Doubts About the Explanatory Value of Hamilton's Rule in Inclusive Fitness Theory: An Objection to Jonathan Birch (in Chinese). _Journal of Dialectics of Nature, 47_(7), 49–57.
+  <strong>Wang, K.</strong> (2025). Doubts About the Explanatory Value of Hamilton's Rule in Inclusive Fitness Theory: An Objection to Jonathan Birch. <em>Journal of Dialectics of Nature, 47</em>(7), 49–57.
   </span>
 
 
