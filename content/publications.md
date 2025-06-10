@@ -22,9 +22,9 @@ show_nav: false
 ### Other
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
-  <strong>王康桥</strong>. (forthcoming). 利他主义进化、纽科姆问题与最大化能动者比喻. 载陈勃杭(编), <em>思想与时代（第二辑）</em>. 商务印书馆.
+  <strong>王康桥</strong>. (forthcoming). 利他主义进化、纽科姆问题与最大化能动者比喻. 载陈勃杭(编), <em>思想与时代（第三辑）</em>. 商务印书馆.
   <div style="color: gray; font-size: 90%; margin-left: 3em;">
-    <strong>Wang, K.</strong> (forthcoming). The Evolution of Altruism, Newcomb’s Problem, and the Maximizing-Agent Analogy (in Chinese). In B. Chen (Ed), <em>Thought and the Times: Volume II</em>. The Commercial Press.
+    <strong>Wang, K.</strong> (forthcoming). The Evolution of Altruism, Newcomb’s Problem, and the Maximizing-Agent Analogy (in Chinese). In B. Chen (Ed), <em>Thought and the Times: Volume III</em>. The Commercial Press.
   </div>
 </div>
 
