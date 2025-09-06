@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Kangqiao Wang | Philosophy of Biology | Macquarie University"
-discription: "This is Kangqiao Wang's personal websit. Kangqiao Wang is a PhD student in the School of Humanities, Macquarie University, Sydney, Australia. His main research interest is the philosophy of biology."
+discription: "This is Kangqiao Wang's personal websit. Kangqiao Wang is a PhD candidate in the School of Humanities, Macquarie University, Sydney, Australia. His main research interest is the philosophy of biology."
 date: 2022-10-24
 type: landing
 

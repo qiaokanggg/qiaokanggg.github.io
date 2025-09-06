@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -98,4 +98,4 @@ languages:
 
 ## About Me
 
-Kangqiao Wang is a PhD student in the School of Humanities, Macquarie University, Sydney, Australia.
+Kangqiao Wang is a PhD candidate in the School of Humanities, Macquarie University, Sydney, Australia.
