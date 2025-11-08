@@ -44,6 +44,7 @@ interests:
   - Philosophy of Biology
   - Philosophy of Applied Mathematics
   - Logical Empiricism
+  - Integrated History and Philosophy of Science
 
 education:
   - area: Doctor of Philosophy in Humanities (ongoing)
@@ -98,4 +99,10 @@ languages:
 
 ## About Me
 
-Kangqiao Wang is a PhD candidate in the School of Humanities, Macquarie University, Sydney, Australia.
+I am a PhD candidate in the School of Humanities, Macquarie University, Sydney, Australia. Prior to this, I earned a Master in History of Science from Tsinghua University and a Bachelor in Philosophy from Peking University, both located in China.
+
+My research interests lie broadly in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behavior). My PhD thesis is titled ‘The inclusive fitness theory, social evolution, and eusociality’, supervised by Dr. [Pierrick Bourrat](https://pierrickbourrat.com/).
+
+Looking ahead, I aim to expand my research beyond evolutionary biology to include ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
+
+I identify as a logical empiricist. I believe the ultimate goal of philosophy is to actively contribute to scientific research. I pursue this by solving scientific controversies at the conceptual, theoretical, and methodological levels.
