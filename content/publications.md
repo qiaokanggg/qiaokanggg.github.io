@@ -28,6 +28,11 @@ show_nav: false
   </div>
 </div>
 
+### Work in Progress
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  A paper on Hamilton's rule
+</div>
 
 </div>
 
