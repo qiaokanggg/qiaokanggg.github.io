@@ -43,8 +43,8 @@ profiles:
 interests:
   - Philosophy of Biology
   - Philosophy of Applied Mathematics
-  - Logical Empiricism
   - Integrated History and Philosophy of Science
+  - Logical Empiricism
 
 education:
   - area: Doctor of Philosophy in Humanities (ongoing)
@@ -53,6 +53,7 @@ education:
     date_end: 
     summary: |
       Thesis: The inclusive fitness theory, social evolution, and eusociality
+      Supervisor: [Pierrick Bourrat](https://pierrickbourrat.com/)
     #on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
       #text: 'Read Thesis'
@@ -62,13 +63,15 @@ education:
     date_start: 2022-09-01
     date_end: 2024-10-10
     summary: |
-      Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy (in Chinese)
+      Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy (in Chinese) [PDF](/uploads/mastersthesis.pdf)
+      Supervisor: [Wei Wang](https://www.dhs.tsinghua.edu.cn/?p=2104)
   - area: Bachelor of Philosophy in Philosophy
     institution: Department of Philosophy and Religious Studies, Peking University
     date_start: 2017-09-01
     date_end: 2022-06-27
     summary: |
-      Thesis: How is a Mechanistic Explanation Justified? (in Chinese)
+      Thesis: How is a Mechanistic Explanation Justified? (in Chinese) [PDF](/uploads/undergradthesis.pdf)
+      Supervisor: [Qiaoying Lu](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/69Religiousstudies496966.htm)
 #work:
   #- position: 
   #  company_name: 
