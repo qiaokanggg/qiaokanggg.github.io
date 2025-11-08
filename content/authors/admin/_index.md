@@ -52,8 +52,8 @@ education:
     date_start: 2025-02-01
     date_end: 
     summary: |
-      Thesis: The inclusive fitness theory, social evolution, and eusociality
-      Supervisor: [Pierrick Bourrat](https://pierrickbourrat.com/)
+      - Thesis: The inclusive fitness theory, social evolution, and eusociality
+      - Supervisor: [Pierrick Bourrat](https://pierrickbourrat.com/)
     #on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
       #text: 'Read Thesis'
