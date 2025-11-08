@@ -99,10 +99,10 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
-I am a PhD candidate in the School of Humanities, Macquarie University, Sydney, Australia.
+I am a PhD candidate in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as the student assistant for the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
 
 My research interests lie broadly in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behavior). My PhD thesis is titled ‘The inclusive fitness theory, social evolution, and eusociality’, supervised by Dr. [Pierrick Bourrat](https://pierrickbourrat.com/).
 
-Looking ahead, I expect to expand my focus beyond evolutionary biology to include ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
+In the long run, I hope to broaden my research beyond evolutionary biology to explore areas such as ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
 
 I identify as a logical empiricist. I believe that the ultimate goal of philosophy is to actively contribute to scientific research. I pursue this by solving scientific controversies at the conceptual, theoretical, and methodological levels.

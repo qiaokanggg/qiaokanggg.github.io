@@ -17,7 +17,7 @@ show_nav: false
 
 ### Invited
 
-- **Wang, K.** (3 Nov 2025). Explicating Genetic Relatedness: A Functional Approach. [SAPoLSN]{https://sapolsn.com/} Workshop. Macquarie University, Sydney, Australia.
+- **Wang, K.** (3 Nov 2025). Explicating Genetic Relatedness: A Functional Approach. [SAPoLSN](https://sapolsn.com/) Workshop. Macquarie University, Sydney, Australia.
 
 
 </div>
