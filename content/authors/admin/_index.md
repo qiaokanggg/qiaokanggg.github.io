@@ -63,14 +63,14 @@ education:
     date_start: 2022-09-01
     date_end: 2024-10-10
     summary: |
-      - Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy (in Chinese) [PDF](/uploads/mastersthesis.pdf)
+      - Thesis: A Conceptual Study of the Inclusive Fitness Theory Controversy (in Chinese) <a href="/uploads/mastersthesis.pdf" target="_blank">PDF</a>
       - Supervisor: [Wei Wang](https://www.dhs.tsinghua.edu.cn/?p=2104)
   - area: Bachelor of Philosophy in Philosophy
     institution: Department of Philosophy and Religious Studies, Peking University
     date_start: 2017-09-01
     date_end: 2022-06-27
     summary: |
-      - Thesis: How is a Mechanistic Explanation Justified? (in Chinese) [PDF](/uploads/undergradthesis.pdf)
+      - Thesis: How is a Mechanistic Explanation Justified? (in Chinese) <a href="/uploads/undergradthesis.pdf" target="_blank">PDF</a>
       - Supervisor: [Qiaoying Lu](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/69Religiousstudies496966.htm)
 #work:
   #- position: 
