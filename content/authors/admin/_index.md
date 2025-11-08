@@ -105,4 +105,4 @@ My research interests lie broadly in the philosophy of biology, with a particula
 
 Looking ahead, I aim to expand my research beyond evolutionary biology to include ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
 
-I identify as a logical empiricist. I believe the ultimate goal of philosophy is to actively contribute to scientific research. I pursue this by solving scientific controversies at the conceptual, theoretical, and methodological levels.
+I identify as a logical empiricist. I believe that the ultimate goal of philosophy is to actively contribute to scientific research. I pursue this by solving scientific controversies at the conceptual, theoretical, and methodological levels.
