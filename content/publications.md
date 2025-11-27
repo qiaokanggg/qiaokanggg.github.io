@@ -31,7 +31,7 @@ show_nav: false
 ### Work in Progress
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
-  A paper on Hamilton's rule
+  A paper on Hamilton's rule (under review)
 </div>
 
 </div>
