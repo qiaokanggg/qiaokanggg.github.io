@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Candidate & Sessional Teaching Academic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -99,7 +99,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
-I am a PhD candidate in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as a student ambassador for the [Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)](https://sapolsn.com/) and the student assistant for the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
+I am a PhD candidate and a sessional teaching academic in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as a student assistant for the [Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)](https://sapolsn.com/) and the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
 
 I am broadly interested in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behavior). My PhD thesis 'The inclusive fitness theory, social evolution, and eusociality' is supervised by Dr. [Pierrick Bourrat](https://pierrickbourrat.com/).
 
