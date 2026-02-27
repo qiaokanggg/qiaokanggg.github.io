@@ -3,7 +3,7 @@
 title: Kangqiao Wang
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: /kʰɑŋ·tɕʰjɑʊ̯·wɑŋ/
 
 # Full name (for SEO)
 first_name: Kangqiao
