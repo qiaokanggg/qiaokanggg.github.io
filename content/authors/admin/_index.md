@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate & Sessional Teaching Academic
+role: PhD Candidate
+role: Sessional Teaching Academic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
