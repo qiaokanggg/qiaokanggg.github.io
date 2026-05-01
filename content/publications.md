@@ -28,7 +28,7 @@ show_nav: false
   </div>
 </div>
 
-### Work in Progress
+### Works in Progress
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   A paper on Hamilton's rule (under review)
