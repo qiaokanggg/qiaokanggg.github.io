@@ -37,6 +37,10 @@ sections:
       title: '📚 News'
       subtitle: ''
       text: |-
+        [Posted 29 May 2026] I will present my contributed paper on partner choice at the [PSA 2026 meeting](https://psa26.oa-event.com/), held from 19–22 November at San Diego, USA.
+
+        [Posted 29 May 2026] I will join [SAPoLSN 2026 Summer School](https://sapolsn.com/event/2026-summer-school/) as a student assistant, held from 17–22 August at Macquarie University, Sydney, Australia.
+
         [Posted 1 May 2026] I will present my paper on partner choice at the [2026 AAP Conference](https://aap.org.au/Conference-2026-NZ), held from 5–9 July at the University of Waikato, Hamilton, New Zealand.
 
         [Posted 1 May 2026] I will present my paper on genetic relatedness at the fourth annual [ANZPB workshop](https://anzphilbio.weebly.com/), held from 30 June to 3 July in Sydney, Australia.

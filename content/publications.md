@@ -18,7 +18,6 @@ show_nav: false
   </div>
 </div>
 
-
 ### Other
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
@@ -31,6 +30,7 @@ show_nav: false
 ### Works in Progress
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  A paper on partner choice (conditionally accepted at the _PSA 2026 Contributed Paper Proceedings_)
   A paper on Hamilton's rule (under review)
 </div>
 
