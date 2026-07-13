@@ -12,6 +12,14 @@ show_nav: false
 ### Refereed
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  <strong>Wang, K.</strong>. (8 Jul 2026). A puzzle about partner choice. <a href="https://aap.org.au/Conference-2026-NZ" target="_blank">The 2026 AAP Conference</a>. The University of Waikato, Hamilton, New Zealand.
+</div>
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  <strong>Wang, K.</strong>. (1 Jul 2024). Explicating genetic relatedness: variations, controversies, and a functional approach. <a href="https://anzphilbio.weebly.com/uploads/1/4/4/7/144731540/anzphilbio_2026_programme_v6.pdf" target="_blank">The fourth annual ANZPB workshop</a>. The Quarantine Station, Sydney, Australia.
+</div>
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   <strong>王康桥</strong>. (1 Dec 2024). 利他主义的进化、纽科姆问题与最大化能动者比喻. <a href="https://mp.weixin.qq.com/s/4NjBilVx5WR1K7l_Ub59Hw?from=singlemessage&isappinstalled=0&scene=1&clicktime=1762610383&enterid=1762610383" target="_blank">第十二届全国生物学哲学暨第七届生态学哲学研讨会</a>. 北京师范大学（珠海校区）, 珠海, 中国.
   <div style="color: gray; font-size: 90%; margin-left: 3em;">
     <strong>Wang, K.</strong> (1 Dec 2024). The Evolution of Altruism, Newcomb's Problem, and the Maximizing-Agent Analogy (in Chinese). <a href="https://mp.weixin.qq.com/s/4NjBilVx5WR1K7l_Ub59Hw?from=singlemessage&isappinstalled=0&scene=1&clicktime=1762610383&enterid=1762610383" target="_blank">The 12th National Conference on the Philosophy of Biology and the 7th National Conference on the Philosophy of Ecology</a>. Beijing Normal University at Zhuhai, Zhuhai, China.
