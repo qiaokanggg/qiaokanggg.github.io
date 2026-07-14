@@ -16,7 +16,7 @@ show_nav: false
 </div>
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
-  <strong>Wang, K.</strong>. (1 Jul 2024). Explicating genetic relatedness: variations, controversies, and a functional approach. <a href="https://anzphilbio.weebly.com/uploads/1/4/4/7/144731540/anzphilbio_2026_programme_v6.pdf" target="_blank">The fourth annual ANZPB workshop</a>. The Quarantine Station, Sydney, Australia.
+  <strong>Wang, K.</strong>. (2 Jul 2026). Explicating genetic relatedness: variations, controversies, and a functional approach. <a href="https://anzphilbio.weebly.com/uploads/1/4/4/7/144731540/anzphilbio_2026_programme_v6.pdf" target="_blank">The fourth annual ANZPB workshop</a>. The Quarantine Station, Sydney, Australia.
 </div>
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
