@@ -12,6 +12,9 @@ show_nav: false
 ### Journal Articles
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  <strong>Wang, K</strong>. (forthcoming). On the general forms of Hamilton's rules derived from regression models of social evolution. <em>Studies in History and Philosophy of Science</em>.
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   <strong>王康桥</strong>. (2025). 对广义适合度理论中汉密尔顿规则解释价值的质疑——驳乔纳森·伯奇. <em>自然辩证法通讯, 47</em>(7), 49–57. <a href="https://jdn.ucas.ac.cn/public/uploads/files/684280f027ffa.pdf" target="_blank">PDF</a>
   <details style="margin-left: 2em;">
   <summary style="cursor: pointer; color: gray; font-size: 90%;">
@@ -41,8 +44,6 @@ show_nav: false
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   A paper on partner choice (conditionally accepted at the <em>PSA 2026 Contributed Paper Proceedings</em>)
-
-  A paper on Hamilton's rule (under review)
 </div>
 
 </div>
