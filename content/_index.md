@@ -37,7 +37,11 @@ sections:
       title: '📚 News'
       subtitle: ''
       text: |-
+        **Upcoming**
+
         [Posted 29 May 2026] I will present my contributed paper on partner choice at the [PSA 2026 meeting](https://psa26.oa-event.com/), held from 19–22 November at San Diego, USA.
+
+        **Past Events**
 
         [Posted 29 May 2026] I will join [SAPoLSN 2026 Summer School](https://sapolsn.com/event/2026-summer-school/) as a student assistant, held from 17–22 August at Macquarie University, Sydney, Australia.
 

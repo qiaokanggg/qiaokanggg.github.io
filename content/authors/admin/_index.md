@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:kangqiao.wang@students.mq.edu.au'
+    url: 'mailto:kangqiao.wang@mq.edu.au'
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-5332-4031

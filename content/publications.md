@@ -12,7 +12,7 @@ show_nav: false
 ### Journal Articles
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
-  <strong>Wang, K</strong>. (forthcoming). On the general forms of Hamilton's rules derived from regression models of social evolution. <em>Studies in History and Philosophy of Science</em>.
+  <strong>Wang, K</strong>. (2026). On the general forms of Hamilton's rules derived from regression models of social evolution. <em>Studies in History and Philosophy of Science, 119</em>, 102205. <a href="https://www.sciencedirect.com/science/article/pii/S0039368126000919" target="_blank">Link</a>
 </div>
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
