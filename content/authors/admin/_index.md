@@ -101,7 +101,7 @@ languages:
 ---
 I am a PhD candidate and a sessional teaching academic in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as a student assistant for the [Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)](https://sapolsn.com/) and the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
 
-I am broadly interested in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behavior). My PhD thesis 'The inclusive fitness theory, social evolution, and eusociality' is supervised by Dr. [Pierrick Bourrat](https://pierrickbourrat.com/).
+I am broadly interested in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behaviour). My PhD thesis 'The inclusive fitness theory, social evolution, and eusociality' is supervised by Dr. [Pierrick Bourrat](https://pierrickbourrat.com/).
 
 In the long run, I hope to broaden my research beyond evolutionary biology to explore areas such as ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
 
