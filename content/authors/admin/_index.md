@@ -36,7 +36,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-5332-4031
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=G0KE5z8AAAAJ
   - icon: academicons/philpapers
     url: https://philpeople.org/profiles/kangqiao-wang
 

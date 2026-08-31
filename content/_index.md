@@ -41,6 +41,8 @@ sections:
 
         19–22 Nov 2026: I will present my contributed paper on partner choice at the [PSA 2026 meeting](https://psa26.oa-event.com/) in San Diego, USA.
 
+        11–13 Sep 2026: I will present my paper on agential thinking at the 1st Workshop on Philosophy of the Social Sciences at Sun Yat-sen University, Guangzhou, China.
+
         **Past Events**
 
         17–25 Aug 2026: I joined [SAPoLSN 2026 Summer School](https://sapolsn.com/event/2026-summer-school/) and [Workshop](https://sapolsn.com/event/2026-workshop/) as a student assistant at Macquarie University, Sydney, Australia.
