@@ -12,6 +12,10 @@ show_nav: false
 ### Refereed
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  <strong>Wang, K.</strong>. (12 Sep 2026). Utility-maximising agents in evolutionary biology and economics. <a href="https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg" target="_blank">First Workshop on Philosophy of the Social Sciences</a>. Sun Yat-sen University, Guangzhou, China.
+</div>
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   <strong>Wang, K.</strong>. (8 Jul 2026). A puzzle about partner choice. <a href="https://aap.org.au/Conference-2026-NZ" target="_blank">The 2026 AAP Conference</a>. The University of Waikato, Hamilton, New Zealand.
 </div>
 
