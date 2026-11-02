@@ -43,7 +43,7 @@ sections:
 
         **Past Events**
 
-        12–13 Sep 2026: I presented my paper on agential thinking at the [First Workshop on Philosophy of the Social Sciences](https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg) at Sun Yat-sen University, Guangzhou, China.
+        12–13 Sep 2026: I presented my paper on agential thinking at the [First Workshop on Philosophy of Social Science](https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg) at Sun Yat-sen University, Guangzhou, China.
 
         17–25 Aug 2026: I joined [SAPoLSN 2026 Summer School](https://sapolsn.com/event/2026-summer-school/) and [Workshop](https://sapolsn.com/event/2026-workshop/) as a student assistant at Macquarie University, Sydney, Australia.
 

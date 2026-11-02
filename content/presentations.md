@@ -12,7 +12,15 @@ show_nav: false
 ### Refereed
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
-  <strong>Wang, K.</strong>. (12 Sep 2026). Utility-maximising agents in evolutionary biology and economics. <a href="https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg" target="_blank">First Workshop on Philosophy of the Social Sciences</a>. Sun Yat-sen University, Guangzhou, China.
+  <strong>王康桥</strong>. (12 Sep 2026). Utility-maximising agents in evolutionary biology and economics. <a href="https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg" target="_blank">第一届社会科学哲学工作坊</a>. 中山大学, 广州, 中国.
+  <details style="margin-left: 2em;">
+  <summary style="cursor: pointer; color: gray; font-size: 90%;">
+    View English
+  </summary>
+  <div style="color: gray; font-size: 90%;">
+    <strong>Wang, K.</strong> (12 Sep 2026). Utility-maximising agents in evolutionary biology and economics (in Chinese). <a href="https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg" target="_blank">First Workshop on Philosophy of Social Science</a>. Sun Yat-sen University, Guangzhou, China.
+  </div>
+  </details>
 </div>
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
