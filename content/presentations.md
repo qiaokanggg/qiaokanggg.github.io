@@ -12,6 +12,10 @@ show_nav: false
 ### Refereed
 
 <div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
+  <strong>Wang, K.</strong>. (20 Nov 2026). A puzzle of partner choice. <a href="https://psa26.oa-event.com/" target="_blank">30th Biennial Meeting of the Philosophy of Science Association</a>. The Westin San Diego Gaslamp Quarter, San Diego, USA.
+</div>
+
+<div style="text-indent: -2em; padding-left: 2em; margin-bottom: 1em;">
   <strong>王康桥</strong>. (12 Sep 2026). Utility-maximising agents in evolutionary biology and economics. <a href="https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg" target="_blank">第一届社会科学哲学工作坊</a>. 中山大学, 广州, 中国.
   <details style="margin-left: 2em;">
   <summary style="cursor: pointer; color: gray; font-size: 90%;">
