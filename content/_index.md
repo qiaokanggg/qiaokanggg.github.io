@@ -39,9 +39,11 @@ sections:
       text: |-
         **Upcoming**
 
-        19–22 Nov 2026: I will present my contributed paper on partner choice at the [PSA 2026 meeting](https://psa26.oa-event.com/) in San Diego, USA.
+        18–23 Jul 2027: I will present my paper on agential thinking at the [ISHPSSB 2027 meeting](https://congressin.com/e/ishpssb2027/) in National University of Tres de Febrero (UNTREF), Buenos Aires, Argentina.
 
         **Past Events**
+
+        19–22 Nov 2026: I presented my contributed paper on partner choice at the [PSA 2026 meeting](https://psa26.oa-event.com/) in San Diego, USA.
 
         12–13 Sep 2026: I presented my paper on agential thinking at the [First Workshop on Philosophy of Social Science](https://mp.weixin.qq.com/s/OZmuLlX37OXrlzthMm6IEg) at Sun Yat-sen University, Guangzhou, China.
 
